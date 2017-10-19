@@ -16,7 +16,7 @@
 		include('adlock.php');
 		?> 
 		
-		W E L C O M E!!
+		
 	<div class="header">
 		<div>
 			<img src="pictures/s.i.png" alt="bir" width="150" height="150" align="left">
